@@ -8,7 +8,7 @@ Proyecto de desarrollo de una app en Ionic
 
 A grandes rasgos se utilizan las siguientes tecnologías de desarrollo.
 
-- AngularJS 9.
+- AngularJS 9.1.9.
 - C#
 - MVC5.
 - EntityFrameworkCore.
@@ -18,8 +18,9 @@ A grandes rasgos se utilizan las siguientes tecnologías de desarrollo.
 - JWT.
 - CORS.
 - Endpoints.
-- Ionic
-- SQL SERVER.
+- Ionic 6.11.1.
+- Cordova 0.15.1.
+- <b> SGB: </b> SQL SERVER.
 
 ## Herramientas de Desarrollo E IDES
 
