@@ -1,0 +1,7 @@
+INSERT INTO dbo.Products (Descripcion, Valor)
+VALUES 
+('Producto # 1', 23000),
+('Producto # 2', 39800),
+('Producto # 3', 27600),
+('Producto # 4', 24300)
+;
