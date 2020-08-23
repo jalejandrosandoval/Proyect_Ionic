@@ -30,3 +30,40 @@ A grandes rasgos se utilizan las siguientes tecnologías de desarrollo.
 - GitHub.
 
 <hr>
+
+## Requisitos Previos
+
+* Se debe instalar el NodeJS
+
+### Instalar NodeJs
+
+* Descargar el instalador de [NodeJS](https://nodejs.org/es/).
+* Ejecutar el instalador.
+
+<b> NOTA: </b> el utilizar la instrucción "-g" implica que se instalará de forma global en el equipo la tecnología y/o dependencia actual; si se desea se retira ese comando y se instala de forma especifica en la ruta donde se desee.
+
+### Instalar Ionic y Dependencias como Cordoba
+
+```bash
+npm i -g @angular/cli
+```
+
+### Instalar Angular
+
+* Instalar Angular en su ultima versión:
+```bash
+npm i -g @angular/cli
+```
+
+* Si se desea, instalar angular en una versión especifica se debe utilizar el siguiente comando:
+```bash
+npm i -g @angular/cli@'N°. Version'
+```
+
+* Para verificar la versión de angular instalada:
+
+```bash
+ng --version
+```
+
+
