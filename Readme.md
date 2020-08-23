@@ -51,7 +51,7 @@ Más Información de [Ionic](https://ionicframework.com/docs/).
 npm i -g @angular/cli -n
 ```
 
-### Instalar Angular
+### Instalar Angular de Forma Individual
 
 * Instalar Angular en su ultima versión:
 ```bash
@@ -68,5 +68,20 @@ npm i -g @angular/cli@'N°. Version'
 ```bash
 ng --version
 ```
+
+### Crear Poryecto en Ionic
+
+* Primero se debe seleccionar el nombre y el tipo de aplicación que se desea.
+
+```bash
+ionic start 'NameProyect' 'Type =>  tabs, blank, side'
+```
+
+* Seguido a ello se debe configurar el lenguaje o tecnología en el que se deseea ya sea Angular o React. Para ello si se desea, se puede hacer todo en la misma linea o seleccionar de forma particular cuando la consola lo pregunte. Instrucción de una sola linea:
+
+```bash
+ionic start 'NameProyect' 'Type =>  tabs, blank, side' --type='angular - react' --capacitor
+```
+
 
 
