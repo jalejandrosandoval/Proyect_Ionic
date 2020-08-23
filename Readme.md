@@ -34,7 +34,7 @@ A grandes rasgos se utilizan las siguientes tecnologías de desarrollo.
 
 ## Requisitos Previos
 
-* Se debe instalar el NodeJS
+* Se debe instalar el NodeJS.
 
 ### Instalar NodeJs
 
@@ -43,10 +43,12 @@ A grandes rasgos se utilizan las siguientes tecnologías de desarrollo.
 
 <b> NOTA: </b> el utilizar la instrucción "-g" implica que se instalará de forma global en el equipo la tecnología y/o dependencia actual; si se desea se retira ese comando y se instala de forma especifica en la ruta donde se desee.
 
-### Instalar Ionic y Dependencias como Cordoba
+### Instalar Ionic y Dependencias como Cordova
+
+Más Información de [Ionic](https://ionicframework.com/docs/).
 
 ```bash
-npm i -g @angular/cli
+npm i -g @angular/cli -n
 ```
 
 ### Instalar Angular
